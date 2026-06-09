@@ -30,7 +30,7 @@ Aplicación de escritorio para controlar una lámpara **Philips Wiz** desde tu P
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/wiz-lamp-control.git
+git clone https://github.com/NahuelDumbsky/wiz-lamp-control.git
 cd wiz-lamp-control
 
 # 2. Instalar dependencias
