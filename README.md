@@ -7,16 +7,20 @@ Aplicación de escritorio para controlar una lámpara **Philips Wiz** desde tu P
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
-<img width="439" height="549" alt="pwizlight_modo-claro" src="https://github.com/user-attachments/assets/942b4353-f7d9-4fce-8135-906234d2e324" />
-<img width="439" height="552" alt="pwizlight_modo-oscuro" src="https://github.com/user-attachments/assets/03b7b245-2e86-45b2-8a2d-19bbf78bcbf2" />
+
+<img width="440" height="630" alt="image" src="https://github.com/user-attachments/assets/2b8c9368-0083-45fd-84c0-235fab16af28" />
+<img width="440" height="630" alt="image" src="https://github.com/user-attachments/assets/5bff811f-128e-40d9-ba5d-c747ed585339" />
+
 
 ## Funciones
 
+- **buscar y conectar** con la lampara mediante **IP**
 - **Encender / Apagar** la lámpara con un clic
 - **Control de color RGB** con sliders individuales por canal
 - **Modos preconfigurados**: Blanco Cálido y Blanco Frío
 - **Control de brillo** de 1% a 100%
 - **Modo claro / oscuro** en la interfaz con un botón toggle
+- **barra de estado** en la esquina inferior de la aplicación
 
 ---
 
@@ -38,16 +42,9 @@ cd wiz-lamp-control
 # 2. Instalar dependencias
 pip install -r requirements.txt
 
-# 3. Configurar la IP de tu lámpara en lamp_control.py
-#    Buscar la línea:  light = wizlight("192.168.0.180")
-#    y reemplazar la IP por la de tu lámpara
-
-# 4. Correr la aplicación
+# 3. Correr la aplicación
 python lamp_control.py
 ```
-
-> **¿Cómo encontrar la IP de tu lámpara?**
-> Abrí la app Wiz en tu celular → seleccioná la lámpara → *Configuración del dispositivo* → la IP aparece al final de la lista.
 
 ---
 
