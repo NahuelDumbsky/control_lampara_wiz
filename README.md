@@ -7,6 +7,8 @@ Aplicación de escritorio para controlar una lámpara **Philips Wiz** desde tu P
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+<img width="439" height="549" alt="pwizlight_modo-claro" src="https://github.com/user-attachments/assets/942b4353-f7d9-4fce-8135-906234d2e324" />
+<img width="439" height="552" alt="pwizlight_modo-oscuro" src="https://github.com/user-attachments/assets/03b7b245-2e86-45b2-8a2d-19bbf78bcbf2" />
 
 ## Funciones
 
@@ -30,7 +32,7 @@ Aplicación de escritorio para controlar una lámpara **Philips Wiz** desde tu P
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/wiz-lamp-control.git
+git clone https://github.com/NahuelDumbsky/wiz-lamp-control.git
 cd wiz-lamp-control
 
 # 2. Instalar dependencias
