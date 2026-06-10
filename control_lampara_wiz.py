@@ -169,7 +169,7 @@ async def main():
     header.pack(fill=X)
 
     reg(Label(header,
-              text="💡  Control de Lampara Wiz",
+              text="Control de Lampara Wiz",
               font=("Helvetica", 13, "bold")), "card_label_bold").pack()
 
     # Botón toggle — tipo tecla con relieve
